@@ -1,0 +1,2 @@
+android.app.Application
+io.smy.com_medium_nav_drawer

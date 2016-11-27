@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{AF37B167-1F1B-47B3-B311-239769E81CB8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="com.medium.navdrawer/MainActivity.cs">
+    <Files>
+      <File FileName="com.medium.navdrawer/Resources/values/styles.xml" Line="10" Column="3" />
+      <File FileName="com.medium.navdrawer/Resources/values/Strings.xml" Line="7" Column="1" />
+      <File FileName="com.medium.navdrawer/MainActivity.cs" Line="47" Column="8" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="com.medium.navdrawer" expanded="True">
+            <Node name="com.medium.navdrawer" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True" />
+                <Node name="menu" expanded="True" />
+                <Node name="values" expanded="True" />
+              </Node>
+              <Node name="MainActivity.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.com.medium.navdrawer AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.42009f5103e1c2ff" AndroidDesignerPreferredTheme="Theme.DeviceDefault" />
+</Properties>
